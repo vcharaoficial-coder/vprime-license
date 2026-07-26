@@ -1,0 +1,4 @@
+# Solo allowlist.json se publica (CDN). Todo lo demás es local.
+*
+!.gitignore
+!allowlist.json
